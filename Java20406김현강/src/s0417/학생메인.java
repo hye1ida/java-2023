@@ -8,7 +8,7 @@ public class 학생메인 {
 		학생 KIM = new 학생("김현강",18,2,46,60);
 		KIM.printAll();
 		
-		hong.age = 10;
+		hong.age = 100;
 		hong.grade = 3;
 		hong.name = "홍길동";
 		hong.number = 25;
