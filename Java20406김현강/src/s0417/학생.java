@@ -10,7 +10,7 @@ public class 학생 {
 	
 	
 	//생성자
-	학생(){
+	public 학생(){
 		weight = 50;
 	}
 	
